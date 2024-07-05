@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(236, 236, 236);
+}
+#contact .img1{
+    margin-top: 100px;
+    width: 90%;
+    margin-left: 74px;
+}
+
+#login .img2{
+    margin-top: 100px;
+    width: 90%;
+    margin-left: 74px;
+}
+.clm1{
+    margin-top: 100px;
+    padding-top: 10px;
+    background-color: lightblue;
+}
+
+#login .clm2{
+    margin-top: 100px;
+    background-color: lightblue;
+}
+#contact h1{
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 30px;
+    padding-bottom: 20px;
+    
+}
+#login h1{
+    padding-top: 20px;
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 30px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    
+}
+
+#contact h2{
+    padding-top: 20px;
+    font-family: "Poppins";
+    font-size: 15px;
+    
+}
+#contact .sp{
+    color: blue;
+    margin-left: 3px;
+    font-weight: bold;
+}
+#contact .form-check-label{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
